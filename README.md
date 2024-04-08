@@ -9,11 +9,12 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **Manual Testing,Automation Testing,Appium**
+- 💬 Ask me about **Manual Testing,Automation Testing,Appium,Html,CSS,JavaScript**
 
-- 📫 How to reach me **ishita29.rai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me **ishita29.rai@gmail.com**
 <p align="left">
 </p>
 
