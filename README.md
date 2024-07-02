@@ -16,13 +16,15 @@
 
 - 📫 How to reach me :
 - 
-  <a href="mailto:ishita29.rai@gmail.com" > ishita29.rai@gmail.com
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Send Mail" style="width: 40px; height: 40px;">
+<p>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Send Mail" style="width: 30px; height: 30px;">
+    <a href="mailto:<Ishita> ishita29.rai@gmail.com" > ishita29.rai@gmail.com
 </a>
  <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
    
    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
     </a>
+    </p>
     
 <p align="left">
 </p>
