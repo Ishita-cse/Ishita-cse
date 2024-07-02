@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me :
-<a href="ishita29.rai@gmail.com">Send Mail</a>
+- <a href="mailto:ishita29.rai@gmail.com">Send Mail</a>
  <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
    
    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
