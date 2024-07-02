@@ -16,11 +16,7 @@
 
 - 📫 How to reach me
 - **ishita29.rai@gmail.com**
-- <a href="ishita29.rai@gmail.com" target="_blank">
-   
-   <img src="https://www.mail.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
-    </a>
-    
+   <img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Gmail Profile" style="width: 40px; height: 40px;"> 
  <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
    
    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
