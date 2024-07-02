@@ -24,6 +24,6 @@
 <p>
  <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
    
-   <img src="linkedin-logo.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
+   <img src="fa-brands fa-linkedin" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
     </a>
     </p>
