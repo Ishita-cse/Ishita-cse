@@ -14,10 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me
-- **ishita29.rai@gmail.com**
-   <img src="![image](https://github.com/Ishita-cse/Ishita-cse/assets/66740224/d76c6ced-37e6-4563-9b68-9543894f4d7c)
-" alt="Gmail Profile" style="width: 40px; height: 40px;"> 
+- 📫 How to reach me :
+<a href="ishita29.rai@gmail.com">Send Mail</a>
  <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
    
    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
