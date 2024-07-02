@@ -14,7 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **ishita29.rai@gmail.com**
+- 📫 How to reach me
+- **ishita29.rai@gmail.com**
+- 
+ <a href="https://www.linkedin.com/in/ishita-r-471470148/" target="_blank">
+   
+   <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Profile" style="width: 40px; height: 40px;">
+    </a>
+    
 <p align="left">
 </p>
 
