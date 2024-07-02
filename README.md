@@ -17,9 +17,10 @@
 - 📫 How to reach me :
   
 <p>
-     <a href="mailto:ishita29.rai@gmail.com/" target="_blank"> ishita29.rai@gmail.com
+     
    
    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" style="width: 40px; height: 40px;">
+   <a href="mailto:ishita29.rai@gmail.com/" target="_blank"> ishita29.rai@gmail.com
     </a>
     
 
