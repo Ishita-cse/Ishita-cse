@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishita Rai</h1>
-<h3 align="center">A passionate Quality Assurance from Noida,India</h3>
+<h3 align="center">A passionate Quality Assurance from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishita-cse&label=Profile%20views&color=0e75b6&style=flat" alt="ishita-cse" /> </p>
 
-- 🔭 I’m currently working on **ecommerce manual testing project**
+- 🔭 I’m currently working on **Automation testing project with Selenium **
 
-- 🌱 I’m currently learning **Selenium,Appium**
+- 🌱 I’m currently learning **Appium**
 
 - 💻 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **Manual Testing,Automation Testing,Appium,Html,CSS,JavaScript**
+- 💬 Ask me about **Manual Testing,Automation Testing,API testing,Java,Html,CSS,JavaScript**
 
 
 <h3 align="left">Connect with me:</h3>
