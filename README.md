@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishita-cse&label=Profile%20views&color=0e75b6&style=flat" alt="ishita-cse" /> </p>
 
-- 🔭 I’m currently working on **Automation testing project with Selenium **
+- 🔭 I’m currently working on **Automation testing project with Selenium**
 
 - 🌱 I’m currently learning **Appium**
 
